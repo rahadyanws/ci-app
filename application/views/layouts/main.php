@@ -25,6 +25,7 @@
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="<?php echo base_url(); ?>home">Home <span class="sr-only">(current)</span></a></li>
                         <li><a href="<?php echo base_url(); ?>users/register">Register</a></li>
+                        <li><a href="<?php echo base_url(); ?>projects/index">Project</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <?php
